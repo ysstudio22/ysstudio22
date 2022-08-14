@@ -2,9 +2,11 @@
 
 ##Hi, my name is Yoshi.  
 
-Below you will find links to my social network accounts and my repositories--
+![visitors]()
+Below you will find links to my social network accounts and my repositories.--
 
 ![Twitter URL](https://img.shields.io/twitter/url?label=Yoshi&style=social&url=https%3A%2F%2Ftwitter.com%2FYoshiCode03)
+![GitHub Followers](https://img.shields.io/github/followers/ysstudio22?style=social)
 
 ##Repositories--
 1.Frontend Mentor Challenge <https://github.com/ysstudio22/Huddle-Landing-Page-Challenge>--
