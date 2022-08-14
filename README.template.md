@@ -5,6 +5,7 @@
 Below you will find links to my social network accounts and my repositories.--
 
 ![Twitter URL](https://img.shields.io/twitter/url?label=Yoshi&style=social&url=https%3A%2F%2Ftwitter.com%2FYoshiCode03)
+![Follow me on Twitter](https://img.shields.io/twitter/follow/yoshicode03?style=social)
 ![GitHub Followers](https://img.shields.io/github/followers/ysstudio22?style=social)
 
 ##Repositories
