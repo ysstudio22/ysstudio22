@@ -16,9 +16,9 @@ Below you will find links to my social network accounts and my repositories.
 
 ## Hacktoberfest Participation
 
-[Plots2] (https://github.com/ysstudio22/plots2)
+[Plots2](https://github.com/ysstudio22/plots2)
 
-[P2PHackClub] (https://github.com/ysstudio22/website)
+[P2PHackClub](https://github.com/ysstudio22/website)
 
 ## My Other Works
 
