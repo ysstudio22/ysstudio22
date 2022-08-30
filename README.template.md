@@ -1,26 +1,28 @@
 ![Yoshi's GitHub Banner](./assets/Banner.png)
 
-##Hi, my name is Yoshi.  
+## Hi, my name is Yoshi.  
 
-Below you will find links to my social network accounts and my repositories.--
+Below you will find links to my social network accounts and my repositories.
 
 ![Twitter URL](https://img.shields.io/twitter/url?label=Yoshi&style=social&url=https%3A%2F%2Ftwitter.com%2FYoshiCode03)
 ![Follow me on Twitter](https://img.shields.io/twitter/follow/yoshicode03?style=social)
 ![GitHub Followers](https://img.shields.io/github/followers/ysstudio22?style=social)
 
-##Repositories
+## Repositories
 
 1.Frontend Mentor Challenge <https://github.com/ysstudio22/Huddle-Landing-Page-Challenge>
 
 2.Simple Blackjack Game <https://github.com/ysstudio22/Simple-Blackjack-Game>
 
-##Hacktoberfest Participation
+## Hacktoberfest Participation
 
 [Plots2] (https://github.com/ysstudio22/plots2)
-
 [P2PHackClub] (https://github.com/ysstudio22/website)
 
-##My Other Works
-[CodePen](https://codepen.io/ysstudio22)
+## My Other Works
 
+[CodePen](https://codepen.io/ysstudio22)
 [My GitHub Gist](https://gist.github.com/ysstudio22)
+
+## Resources
+[Resources](https://github.com/ysstudio22/Resources)
