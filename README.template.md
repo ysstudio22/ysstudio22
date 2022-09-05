@@ -5,7 +5,7 @@
 I'm a new coder.  My interests are in JS and React.  Below you will find links to my social media accounts and my repositories.  Follow me on Twitter and on GitHub!
 
 ![Twitter URL](https://img.shields.io/twitter/url?label=YoshiCode03&style=social&url=https%3A%2F%2Ftwitter.com%2FYoshiCode03)
-![Follow me on Twitter](https://img.shields.io/twitter/follow/yoshicode03?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/YoshiCode03?style=social)
 ![GitHub Followers](https://img.shields.io/github/followers/ysstudio22?style=social)
 
 ## Repositories
