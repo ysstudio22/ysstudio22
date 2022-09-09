@@ -4,7 +4,7 @@
 
 I'm a new coder.  My interests are in JS and React.  Below you will find links to my social media accounts and my repositories.  Follow me on Twitter and on GitHub!
 
-![Twitter URL](https://img.shields.io/twitter/url?label=YoshiCode03&style=social&url=https%3A%2F%2Ftwitter.com%2FYoshiCode03)
+![Twitter URL](https://img.shields.io/twitter/url?label=YoshiCode03&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FYoshiCode03)
 ![Twitter Follow](https://img.shields.io/twitter/follow/YoshiCode03?style=social)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Followers](https://img.shields.io/github/followers/ysstudio22?style=social)
