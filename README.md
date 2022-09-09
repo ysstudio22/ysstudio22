@@ -10,8 +10,6 @@ I'm a new coder.  My interests are in JS and React.  Below you will find links t
 
 [![Yoshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysstudio22)](https://github.com/anuraghazra/github-readme-stats)
 ## Tools
-[!alt text][logo]
-
 [logo](/assets/canva.svg)
 
 ## Repositories
