@@ -8,6 +8,7 @@ I'm a new coder.  My interests are in JS and React.  Below you will find links t
 ![Twitter Follow](https://img.shields.io/twitter/follow/YoshiCode03?style=social)
 ![GitHub Followers](https://img.shields.io/github/followers/ysstudio22?style=social)
 
+[![Yoshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysstudio22)](https://github.com/anuraghazra/github-readme-stats)
 ## Repositories
 
 1.Frontend Mentor Challenge <https://github.com/ysstudio22/Huddle-Landing-Page-Challenge>
