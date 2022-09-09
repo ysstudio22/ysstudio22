@@ -1,16 +1,31 @@
-### Hi there 👋
+![Yoshi's GitHub Banner](./assets/Banner.png)
 
-<!--
-**ysstudio22/ysstudio22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## WELCOME TO MY PAGE  
 
-Here are some ideas to get you started:
+I'm a new coder.  My interests are in JS and React.  Below you will find links to my social media accounts and my repositories.  Follow me on Twitter and on GitHub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Twitter URL](https://img.shields.io/twitter/url?label=YoshiCode03&style=social&url=https%3A%2F%2Ftwitter.com%2FYoshiCode03)
+![Twitter Follow](https://img.shields.io/twitter/follow/YoshiCode03?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/ysstudio22?style=social)
+
+[![Yoshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysstudio22)](https://github.com/anuraghazra/github-readme-stats)
+## Repositories
+
+1.Frontend Mentor Challenge <https://github.com/ysstudio22/Huddle-Landing-Page-Challenge>
+
+2.Simple Blackjack Game <https://github.com/ysstudio22/Simple-Blackjack-Game>
+
+## Hacktoberfest Participation
+
+[Plots2](https://github.com/ysstudio22/plots2)
+
+[P2PHackClub](https://github.com/ysstudio22/website)
+
+## My Other Works
+
+[CodePen](https://codepen.io/ysstudio22)
+
+[My GitHub Gist](https://gist.github.com/ysstudio22)
+
+## Resources
+[Resources](https://github.com/ysstudio22/Resources)
