@@ -1,5 +1,3 @@
-![Yoshi's GitHub Banner]
-
 ## WELCOME TO MY PAGE  
 
 
