@@ -1,4 +1,4 @@
-![Yoshi's GitHub Banner](./assets/Banner.png)
+![Yoshi's GitHub Banner]
 
 ## WELCOME TO MY PAGE  
 
