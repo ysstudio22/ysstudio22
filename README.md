@@ -1,5 +1,4 @@
 ## WELCOME TO MY PAGE  :wave:
-![Happy New Year](https://www.canva.com/design/DAF4nCo_88Y/JjbwAI8xacaL-NJuZfCjnw/edit?utm_content=DAF4nCo_88Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton "Happy New Year")
 
 ## Socials
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FYoshiCode03)
