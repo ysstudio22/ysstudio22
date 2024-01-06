@@ -1,6 +1,8 @@
-## WELCOME :wave:
+<<<<<<< HEAD
 
-[![Yoshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysstudio22)](https://github.com/ysstudio22/github-readme-stats)
+=======
+## WELCOME TO MY PAGE  :wave:
+>>>>>>> cfaf9bbf1ca34f99b006ae656f063387aecf51c4
 
 ## Socials
 
@@ -18,7 +20,10 @@
 ## My Other Works
 
 [CodePen](https://codepen.io/ysstudio22) <br>
+<<<<<<< HEAD
  
+=======
+>>>>>>> cfaf9bbf1ca34f99b006ae656f063387aecf51c4
 [My GitHub Gist](https://gist.github.com/ysstudio22)
 
 ## Resources
