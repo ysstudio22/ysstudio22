@@ -1,7 +1,5 @@
 ## WELCOME TO MY PAGE  :wave:
-<br>
 [![Yoshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysstudio22)](https://github.com/ysstudio22/github-readme-stats)
-<br>
 
 ## Socials
     ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FYoshiCode03)
