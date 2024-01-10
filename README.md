@@ -17,8 +17,8 @@
 
 ## My Other Works
 
-[CodePen](https://codepen.io/ysstudio22) <br>
-[My GitHub Gist](https://gist.github.com/ysstudio22)
+#### [CodePen](https://codepen.io/ysstudio22) <br>
+#### [My GitHub Gist](https://gist.github.com/ysstudio22)
 
 ## Resources
-[Resources](https://github.com/ysstudio22/Resources) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ysstudio22/Resources)
+#### [Resources](https://github.com/ysstudio22/Resources) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ysstudio22/Resources)
