@@ -15,11 +15,16 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br> 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
+---
 ## Repositories on GitHub
 
-#### [Resources](https://github.com/ysstudio22/Resources) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ysstudio22/Resources)
-#### [My GitHub Gist](https://gist.github.com/ysstudio22)
+### [Resources](https://github.com/ysstudio22/Resources) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ysstudio22/Resources)
 
+### [My GitHub Gist](https://gist.github.com/ysstudio22)
+
+### [YJQR-Component](https://github.com/ysstudio22/YJQR-Component) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ysstudio22/YJQR-Component)
+
+---
 ## My Other Works
 
 #### [CodePen](https://codepen.io/ysstudio22)
