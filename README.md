@@ -24,8 +24,10 @@
 
 ### [YJQR-Component](https://github.com/ysstudio22/YJQR-Component) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ysstudio22/YJQR-Component)
 
+### [Blog Preview Card](https://github.com/ysstudio22/Blog-Preview-Card) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ysstudio22/Blog-Preview-Card)
+
 ---
 ## My Other Works
 
-#### [CodePen](https://codepen.io/ysstudio22)
+### [CodePen](https://codepen.io/ysstudio22)
 
