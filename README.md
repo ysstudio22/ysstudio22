@@ -26,7 +26,7 @@
 
 ### [Blog Preview Card](https://github.com/ysstudio22/Blog-Preview-Card) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ysstudio22/Blog-Preview-Card)
 
-### [Social Media Link Card](https://github.com/ysstudio22/Social-Media-Link-Card) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ysstudio22/Social-Medial-Link-Card)
+### [Social Media Link Card](https://github.com/ysstudio22/Social-Media-Link-Card) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ysstudio22/Social-Media-Link-Card)
 
 ---
 ## My Other Works
