@@ -16,7 +16,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
-## Repositories on GitHub
+## My Work on GitHub
 
 ### [Resources](https://github.com/ysstudio22/Resources) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ysstudio22/Resources)
 
@@ -25,6 +25,8 @@
 ### [YJQR-Component](https://github.com/ysstudio22/YJQR-Component) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ysstudio22/YJQR-Component)
 
 ### [Blog Preview Card](https://github.com/ysstudio22/Blog-Preview-Card) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ysstudio22/Blog-Preview-Card)
+
+### [Social Media Link Card](https://github.com/ysstudio22/Social-Media-Link-Card) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ysstudio22/Social-Medial-Link-Card)
 
 ---
 ## My Other Works
