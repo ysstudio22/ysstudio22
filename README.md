@@ -21,11 +21,16 @@
 
 ### [My GitHub Gist](https://gist.github.com/ysstudio22)
 
+---
+## Frontend Mentor Challenges
+
 ### [YJQR-Component](https://github.com/ysstudio22/YJQR-Component) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ysstudio22/YJQR-Component)
 
 ### [Blog Preview Card](https://github.com/ysstudio22/Blog-Preview-Card) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ysstudio22/Blog-Preview-Card)
 
 ### [Social Media Link Card](https://github.com/ysstudio22/Social-Media-Link-Card) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ysstudio22/Social-Media-Link-Card)
+
+### [Omelette Recipe Card](https://github.com/ysstudio22/Omelette-Recipe-Card) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ysstudio22/Omelette-Recipe-Card)
 
 ---
 ## My Other Works
