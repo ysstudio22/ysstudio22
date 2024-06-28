@@ -2,11 +2,6 @@
 ![Yoshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysstudio22&show_icons=true&theme=tokyonight)
 
 
-## Socials
-
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FYoshiCode03)
-![Twitter Follow](https://img.shields.io/twitter/follow/YoshiCode03?style=social) 
-
 ## What I can use
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysstudio22)](https://github.com/ysstudio22/github-readme-stats)
