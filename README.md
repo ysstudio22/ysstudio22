@@ -1,5 +1,6 @@
 ## WELCOME TO MY PAGE  :wave:
-[![Yoshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysstudio22)](https://github.com/ysstudio22/github-readme-stats)
+![Yoshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysstudio22&show_icons=true&theme=tokyonight)
+
 
 ## Socials
 
@@ -7,6 +8,8 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/YoshiCode03?style=social) 
 
 ## What I can use
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysstudio22)](https://github.com/ysstudio22/github-readme-stats)
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
